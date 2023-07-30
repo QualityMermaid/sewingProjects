@@ -3,7 +3,11 @@ import './Bags.css';
 
 
 export default function Bags() {
-  return (
-    <div>Bags</div>
-  )
+    return (
+        <>
+            <h2>Bags</h2>
+            <h3>Made</h3>
+            <h3>Planned</h3>
+        </>
+    )
 }
