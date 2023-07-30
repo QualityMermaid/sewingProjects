@@ -5,9 +5,14 @@ const PORT = process.env.PORT||8084
 const app = express()
 app.use(cors)
 app.listen(PORT, ()=> console.log(`app is listening on PORT ${PORT}`))
+const data = require("./data.json")
+
+const bags = require("./Lib/Bags")
+const clothes = require("./Lib/Clothes")
 
 app.get("/", (request, response)=>{
     response.status(200).json("This is the main root")
 })
 
-app.get("/bags")
+app.get("/bags", bags)
+app.get("/clothes", clothes)

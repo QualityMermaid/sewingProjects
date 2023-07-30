@@ -1,27 +1,40 @@
 [
     {
         "id": 1,
-        "Bag": "the-leah-tote",
+        "Catagory": "bag",
+        "Name": "the-leah-tote",
         "url": "https://www.simplyclassic.net/product-page/the-leah-tote"
     },
     {
         "id": 2,
-        "Bag": "the-mav-pack",
+        "Catagory": "bag",
+        "Name": "the-mav-pack",
         "url": "https://lindshandmade.com/collections/pdf-patterns/products/ma-pack-pdf-sewing-pattern-includes-svgs-and-a0-file"
     },
     {
         "id": 3,
-        "Bag": "purse-pal",
+        "Catagory": "bag",
+        "Name": "purse-pal",
         "url": "https://lindshandmade.com/collections/pdf-patterns/products/purse-pal-pdf-sewing-pattern-includes-svgs"
     },
     {
         "id": 4,
-        "Bag": "family-travel-organizer",
+        "Catagory": "bag",
+        "Name": "family-travel-organizer",
         "url": "https://lindshandmade.com/collections/pdf-patterns/products/family-travel-organizer-pdf-sewing-pattern-diy-travel-wallet"
     },
     {
         "id": 5,
-        "Bag": "h2o-2go-sling",
+        "Catagory": "bag",
+        "Name": "h2o-2go-sling",
         "url": "https://lindshandmade.com/collections/pdf-patterns/products/h20-2go-sling-pdf-sewing-pattern-includes-svgs"
+    }
+    ,
+    {
+        "id": 6,
+        "Catagory": "clothes",
+        "Name": "jupiter-leggings",
+        "Size": "adult",
+        "url": "https://www.wavesandwild.com/shop/jupiter-leggings-adult-female-curve-fit/"
     }
 ]
